@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+} 
+
+div {
+    width: 50%;
+    border: 1px solid black;
+    margin: auto;
+    list-style: none;
+    display: block;
+    }
+
+ul {
+    display: inline-block;
+}    
+li {
+    text-align: left;
+}
+
+nav{
+    margin: auto;
+    padding: 20px;
+
+}
+
+nav a{
+    font-size: 1.25em;
+    padding: 15px;
+}
+
+img {
+    padding:10px;
+}
